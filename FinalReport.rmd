@@ -95,3 +95,6 @@ The only two groups that were different in this sample test were black and white
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The only two groups that were different in this sample test were black and white people with p values of 00001741. The black pepole and other races were quite similar and so were the white people with p values of 0.06299 and 0.2565 respectively. In this branch the only groups that were different were the black and white people.
+
