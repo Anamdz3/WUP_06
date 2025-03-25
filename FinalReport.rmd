@@ -69,8 +69,13 @@ basicCC + geom_bar(stat="identity", position = "dodge")
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+table2 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table2)
+colPerc(table2)
+```
 
-
+For white people the vote was close to a 2:1 ratio for in favor vs against capital punishment. For black pepole the votes were a bit close 42.63% in favor and 57.37% against it. In the other races votes were a little bit close as well with 55.20 in favor and 44.80% aganist it. The white group has the highest amount of favor and biggest percentage on its side, Black group is second and would have more favor in the oppose with other race group last.
 
 ## Now with More data
 
